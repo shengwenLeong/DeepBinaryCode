@@ -1,3 +1,8 @@
+# This project from [kevinlin311tw/Caffe-DeepBinaryCode](https://github.com/kevinlin311tw/Caffe-DeepBinaryCode/blob/master/prepare.sh)
+- the prior project does not support resnet and this project copy from caffe source and modify it according to [kevinlin311tw/Caffe-DeepBinaryCode](https://github.com/kevinlin311tw/Caffe-DeepBinaryCode/blob/master/prepare.sh)
+- we can run this code to support resnet-hash
+
+
 # Caffe
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
